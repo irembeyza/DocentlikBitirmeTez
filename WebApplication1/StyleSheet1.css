@@ -1,0 +1,62 @@
+﻿.ÜstLabel{
+    background-color: blanchedalmond;
+    font-size: 15pt;
+    text-align: center;
+    color: brown;
+}
+.AnaLabel{
+    background-color: blanchedalmond;
+    font-size:18pt;
+    text-align:center;
+    color:brown;
+}
+.Buton{
+    height:40px;
+    width:120px;
+    background-color:brown;
+    color:white;
+    font-size:18pt;
+    text-align:center;
+
+}
+.Label{
+    background-color:white;
+    font-size:15pt;
+    color:brown;
+}
+.Table{
+    height:40px;
+    width:120px;
+    background-color:cadetblue;
+    color:white;
+    font-size:14pt;
+}
+.EkleSilButon{
+    height:40px;
+    width:25px;
+    background-color:cadetblue;
+    color:white;
+    font-size:15pt;
+}
+.ec{
+    margin: 0 -4px;
+    padding: 4px 0;
+    width: 86px;
+    text-align: center;
+}
+.anaKatman {
+    padding: 0px;
+    width: 1000px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    border-color: grey;
+    position:relative;
+}
+
+.sayi {
+
+    color: black;
+    text-align: center;
+}
